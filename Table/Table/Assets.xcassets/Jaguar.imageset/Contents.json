@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Jaguar-b6a077f108c598a8d1ebb2dc9b3bdf99.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Jaguar-b6a077f108c598a8d1ebb2dc9b3bdf99@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Jaguar-b6a077f108c598a8d1ebb2dc9b3bdf99@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
